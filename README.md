@@ -8,11 +8,11 @@ We've created a dashboard using Microsoft Power BI, and we've also conducted Pyt
 # Requirements
  utilized Jupyter Notebook and Power BI for this project.
 
-#Dataset
+# Dataset
 https://www.kaggle.com/datasets/imdevskp/corona-virus-report
 covid_19_clean_complete
 worldometer_data
 
-#Conclusion
+# Conclusion
 This project aim to enhance public awareness by offering insights into the regions most affected and by providing essential statistics like
 total deaths, recoveries, and the number of tests conducted.
