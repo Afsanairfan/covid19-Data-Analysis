@@ -6,11 +6,13 @@ This project is dedicated to examining and comprehending thevirus's spread, impa
 We've created a dashboard using Microsoft Power BI, and we've also conducted Python analyses to illustrate the global effects of the virus.
 
 # Requirements
- utilized Jupyter Notebook and Power BI for this project.
+ used both PowerBI and Jupyter Notebook to analyze and visualize the project.
 
 # Dataset
 https://www.kaggle.com/datasets/imdevskp/corona-virus-report
-covid_19_clean_complete
+
+covid_19_clean_complete 
+
 worldometer_data
 
 # Conclusion
